@@ -1,4 +1,4 @@
-# TP React - Ejercicio 1 
+# TP React - Ejercicio 2 
 
 Esta es una aplicación web básica creada con **React** que muestra el mensaje recibido por **props**:
 
